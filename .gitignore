@@ -205,3 +205,19 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# C++ Compiled files
+*.o
+*.so
+*.out
+build/
+bin/
+
+# TensorRT / Engine files
+*.engine
+*.plan
+*.onnx
+
+# Data
+data/**
+!data/.gitkeep
