@@ -3,7 +3,7 @@
 ## Foundation Refresher
 * [3Blue1Brown: Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 * [Andrej Karpathy's CS231n: Convolutional Neural Networks](https://cs231n.github.io/convolutional-networks/)
-* [Residual Learning](https://arxiv.org/abs/1512.03385)
+* [Residual Blocks](https://arxiv.org/abs/1512.03385)
 * [Andrej Karpathy: The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [RNNs and Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
@@ -22,4 +22,5 @@
 * [Introduction to Space State Models as Natural Language Models](https://neptune.ai/blog/state-space-models-as-natural-language-models)
 
 ## Visual Mamba
+
 * [VMamba: Visual State Space Model](https://arxiv.org/abs/2401.10166)
