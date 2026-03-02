@@ -11,7 +11,7 @@
 ## Transformers
 * [Illustrated Transformers (Transformers and Self Attention)](https://jalammar.github.io/illustrated-transformer/)
 * [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
-* [Andrej Karpathy: Let's Build GPT From Scratch](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+* [Andrej Karpathy: Let's Build GPT From Scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
 ## Vision Transformers
 * [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
