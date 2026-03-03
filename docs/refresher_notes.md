@@ -10,6 +10,7 @@
 
 ## Transformers
 * [Illustrated Transformers (Transformers and Self Attention)](https://jalammar.github.io/illustrated-transformer/)
+* [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 * [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 * [Andrej Karpathy: Let's Build GPT From Scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
